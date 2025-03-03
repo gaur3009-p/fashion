@@ -1,2 +1,1 @@
-#!/bin/bash
-python demo.py
+!python demo.py
